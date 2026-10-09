@@ -99,32 +99,10 @@
 - Budget & Resource Planning
 
 ---
-<!--
-### Technology Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Group_Policy-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Desktop-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyper-V-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDQ-3D3D3D?style=for-the-badge&logo=pdq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sophos-00A4EF?style=for-the-badge&logo=sophos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rapid7-00A4EF?style=for-the-badge&logo=rapid7&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-EF3B2D?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-00A4EF?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
----
--->
 
 ### What I Do
 
-I partner with organizations to architect and execute technology strategies that balance security, scalability, and operational excellence. By combining deep infrastructure expertise with cybersecurity acumen and practical project leadership, I help enterprises reduce risk, improve resilience, and align technology investments with business objectives.
+I work with organizations, vendors and collegues to architect and execute technology strategies that balance security, scalability, and operational excellence. By combining deep infrastructure expertise with special attention to cybersecurity concerns and practical project leadership, I help reduce risk, improve resilience, and align technology investments with organizational objectives.
 
 My approach emphasizes:
 - **Proactive security** through standardized controls and governance
@@ -135,7 +113,7 @@ My approach emphasizes:
 
 ---
 
-### Focus Areas
+### 🔍 Focus Areas 🔎
 
 - PowerShell scripting and enterprise automation frameworks
 - Active Directory architecture, security, and operational governance
@@ -152,6 +130,19 @@ My approach emphasizes:
 
 ---
 
+### 🗨️ Let's Connect 💬
+
+I'm interested in discussing:
+- IT strategy and digital transformation
+- Cybersecurity planning and risk management
+- Systems architecture and infrastructure modernization
+- PowerShell automation and operational efficiency
+- Active Directory and identity governance
+- IT project leadership and execution
+- Enterprise technology leadership
+
+<hr>
+
 ### GitHub Activity
 
 <p align="center">
@@ -162,20 +153,3 @@ My approach emphasizes:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcswainy&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
-
-### Let's Connect
-
-I'm interested in discussing:
-- IT strategy and digital transformation
-- Cybersecurity planning and risk management
-- Systems architecture and infrastructure modernization
-- PowerShell automation and operational efficiency
-- Active Directory and identity governance
-- IT project leadership and execution
-- Enterprise technology leadership
-<!--
-<a href="https://www.linkedin.com/in/chrismcswain/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
--->
