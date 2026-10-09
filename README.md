@@ -113,7 +113,7 @@ My approach emphasizes:
 
 ---
 
-### 🔍 Focus Areas 🔎
+### Focus Areas 
 
 - PowerShell scripting and enterprise automation frameworks
 - Active Directory architecture, security, and operational governance
