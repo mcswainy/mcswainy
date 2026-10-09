@@ -1,12 +1,15 @@
-<!--
+<div align="center">
+  <h1 align="center">🖥️💾 Chris McSwain 💾🖥️</h1>
+  <img src="https://img.shields.io/badge/Experience-23%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Spartanburg%2C%20SC-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Director%20of%20Systems-red?style=for-the-badge" />
+</div>
+
+<br>
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Hi%2C+I'm+Chris+McSwain;Director+of+Systems;Strategic+IT+Leadership;PowerShell+%7C+Cybersecurity+%7C+Automation" alt="Typing SVG" />
-</p>
-/*
-<h3 align="center">Executive IT Leadership | Systems Architecture | Cybersecurity Strategy</h3>
--->
-<p align="center">
-  Hi there.  My name is Chris and I am currently a <strong>Director of Systems (IT)</strong> in <strong>Spartanburg, SC</strong> with <strong>over 23+ years</strong> of hands-on IT leadership experience.  I am a lifelong learner and I am continuously trying to better myself and my craft.
+  Hi there.  My name is Chris and I am currently a <strong>Director of Systems (IT)</strong> in <strong>Spartanburg, SC</strong> with <strong>more than 23 years</strong> of hands-on IT leadership experience.  I am a lifelong learner and I am continuously trying to better myself and my craft.
 </p>
 
 <p align="center">
