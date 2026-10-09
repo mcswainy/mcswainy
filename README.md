@@ -6,7 +6,7 @@
 <h3 align="center">Executive IT Leadership | Systems Architecture | Cybersecurity Strategy</h3>
 -->
 <p align="center">
-  I am a <strong>Director of Systems (IT)</strong> in <strong>Spartanburg, SC</strong> with <strong>23+ years</strong> of hands-on IT leadership experience.
+  Hi there.  My name is Chris and I am currently a <strong>Director of Systems (IT)</strong> in <strong>Spartanburg, SC</strong> with <strong>over 23+ years</strong> of hands-on IT leadership experience.  I am a lifelong learner and I am continuously trying to better myself and my craft.
 </p>
 
 <p align="center">
@@ -18,10 +18,31 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chrismcswain/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/chrismcswain/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
+### Technology Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Group_Policy-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Desktop-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyper-V-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/PDQ-3D3D3D?style=for-the-badge&logo=pdq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sophos-00A4EF?style=for-the-badge&logo=sophos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rapid7-00A4EF?style=for-the-badge&logo=rapid7&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-EF3B2D?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-00A4EF?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+<hr>
 
 ### Executive Focus
 
@@ -75,7 +96,7 @@
 - Budget & Resource Planning
 
 ---
-
+<!--
 ### Technology Stack
 
 <p align="left">
@@ -96,6 +117,7 @@
 </p>
 
 ---
+-->
 
 ### What I Do
 
@@ -149,7 +171,8 @@ I'm interested in discussing:
 - Active Directory and identity governance
 - IT project leadership and execution
 - Enterprise technology leadership
-
+<!--
 <a href="https://www.linkedin.com/in/chrismcswain/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+-->
