@@ -9,11 +9,11 @@
 <br>
 
 <p align="center">
-  Hi there.  My name is Chris and I am currently a <strong>Director of Systems (IT)</strong> in <strong>Spartanburg, SC</strong> with <strong>more than 23 years</strong> of hands-on IT leadership experience.  I am a lifelong learner and I am continuously trying to better myself and my craft.
+Hi there — I’m Chris, a <strong>Director of Systems (IT)</strong> based in <strong>Spartanburg, SC</strong> with <strong>more than 23 years</strong> of hands-on experience leading technology strategy, infrastructure operations, and cybersecurity initiatives.
 </p>
 
 <p align="center">
-  My expertise spans <strong>Desktop & Server Administration</strong>, <strong>Cybersecurity Strategy</strong>, <strong>Project Management</strong>, and <strong>Systems Architecture</strong>, with a focus on building resilient, secure, and scalable IT environments that drive business value.
+My expertise spans <strong>desktop and server administration</strong>, <strong>cybersecurity strategy</strong>, <strong>project leadership</strong>, and <strong>systems architecture</strong>, with a focus on building resilient, secure, and scalable IT environments that support business growth.
 </p>
 
 <p align="center">
@@ -22,29 +22,31 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chrismcswain/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
 
 ---
+
 ### Technology Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Group_Policy-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Desktop-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyper-V-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/PDQ-3D3D3D?style=for-the-badge&logo=pdq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sophos-00A4EF?style=for-the-badge&logo=sophos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rapid7-00A4EF?style=for-the-badge&logo=rapid7&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-EF3B2D?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-00A4EF?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Group_Policy-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows_Desktop-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Exchange-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyper-V-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/PDQ-3D3D3D?style=for-the-badge&logo=pdq&logoColor=white" />
+<img src="https://img.shields.io/badge/Sophos-00A4EF?style=for-the-badge&logo=sophos&logoColor=white" />
+<img src="https://img.shields.io/badge/Rapid7-00A4EF?style=for-the-badge&logo=rapid7&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-EF3B2D?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation-00A4EF?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
+
 <hr>
 
 ### Executive Focus
@@ -65,55 +67,55 @@
 ### Core Expertise
 
 **Systems & Administration**
-- Desktop Administration & Deployment
-- Server Administration & Infrastructure Management
-- Systems Architecture & Design
-- Active Directory & Identity Management
-- Group Policy Strategy & Implementation
-- Endpoint Management & Security
-- Windows Desktop Administration
-- Exchange Administration
+- Desktop administration and deployment
+- Server administration and infrastructure management
+- Systems architecture and design
+- Active Directory and identity management
+- Group Policy strategy and implementation
+- Endpoint management and security
+- Windows desktop administration
+- Exchange administration
 
 **Cybersecurity**
-- Security Strategy & Risk Management
-- Endpoint Security & Threat Prevention
-- Access Control & Identity Governance
-- Compliance & Security Standards
-- Security Incident Response
-- Vulnerability Assessment & Mitigation
+- Security strategy and risk management
+- Endpoint security and threat prevention
+- Access control and identity governance
+- Compliance and security standards
+- Security incident response
+- Vulnerability assessment and mitigation
 
 **Project Management**
-- IT Project Planning & Delivery
-- Budgeting & Resource Allocation
-- Timeline Management & Risk Tracking
-- Stakeholder Communication & Reporting
-- Change Management
-- Cross-Departmental Project Coordination
-- Delivery of Infrastructure and Security Initiatives
+- IT project planning and delivery
+- Budgeting and resource allocation
+- Timeline management and risk tracking
+- Stakeholder communication and reporting
+- Change management
+- Cross-departmental project coordination
+- Delivery of infrastructure and security initiatives
 
 **Operations & Leadership**
-- Strategic Planning & Technology Roadmaps
-- Process Optimization & Automation
-- IT Operations Leadership
-- Change Management
-- Budget & Resource Planning
+- Strategic planning and technology roadmaps
+- Process optimization and automation
+- IT operations leadership
+- Change management
+- Budget and resource planning
 
 ---
 
 ### What I Do
 
-I work with organizations, vendors and collegues to architect and execute technology strategies that balance security, scalability, and operational excellence. By combining deep infrastructure expertise with special attention to cybersecurity concerns and practical project leadership, I help reduce risk, improve resilience, and align technology investments with organizational objectives.
+I work with organizations, vendors, and colleagues to design and execute technology strategies that balance security, scalability, and operational excellence. By combining deep infrastructure expertise with a strong focus on cybersecurity and practical project leadership, I help reduce risk, improve resilience, and align technology investments with organizational goals.
 
 My approach emphasizes:
 - **Proactive security** through standardized controls and governance
-- **Operational efficiency** via intelligent automation and process optimization
+- **Operational efficiency** through intelligent automation and process optimization
 - **Scalability** through thoughtful systems design and planning
-- **Business alignment** connecting technology decisions to strategic outcomes
+- **Business alignment** by connecting technology decisions to strategic outcomes
 - **Effective execution** through structured project management and stakeholder communication
 
 ---
 
-### Focus Areas 
+### Focus Areas
 
 - PowerShell scripting and enterprise automation frameworks
 - Active Directory architecture, security, and operational governance
@@ -132,7 +134,7 @@ My approach emphasizes:
 
 ### 🗨️ Let's Connect 💬
 
-I'm interested in discussing:
+I’m interested in discussing:
 - IT strategy and digital transformation
 - Cybersecurity planning and risk management
 - Systems architecture and infrastructure modernization
@@ -146,10 +148,10 @@ I'm interested in discussing:
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcswainy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mcswainy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcswainy&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mcswainy&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
