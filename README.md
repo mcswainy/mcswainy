@@ -145,6 +145,7 @@ I’m interested in discussing:
 
 <hr>
 
+<!--
 ### GitHub Activity
 
 <p align="center">
@@ -154,3 +155,4 @@ I’m interested in discussing:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcswainy&theme=tokyonight" alt="GitHub Streak" />
 </p>
+-->
