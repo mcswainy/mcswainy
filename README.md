@@ -30,7 +30,7 @@ My expertise spans <strong>desktop and server administration</strong>, <strong>c
 
 ### Technology Stack
 
-<p align="left">
+<p align="center">
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Group_Policy-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -154,4 +154,3 @@ I’m interested in discussing:
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcswainy&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
